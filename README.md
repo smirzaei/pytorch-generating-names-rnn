@@ -18,7 +18,7 @@ python predict.py model
 #### Requirements 
 You need Python, PyTorch and Numpy
 
-#### Some results
+#### Some results (beam size = 3)
 ```
 ====== Irish
 O'Dell -0.6350323756535848
