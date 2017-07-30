@@ -8,6 +8,7 @@ In this project:
 * I used [Embeddings](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/) instead of One-Hot Tensors
 * I implemented [Beam Search](https://en.wikipedia.org/wiki/Beam_search)
 * I used Adam optimizer
+* I added the Start of Sentence token so that sampling can be done without choosing a starting letter
 
 #### Usage
 ```
